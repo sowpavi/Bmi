@@ -1,0 +1,47 @@
+body{
+    background-color:rgb(239,221,119);
+}
+marquee
+{
+    background-color: rgba(237, 147, 111, 0.868);
+    font-size: 200%;
+    font-style:italic;
+    color:whitesmoke;
+}
+h1{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 250%;
+    color:rgb(128, 48, 174);
+}
+h2{
+    font-size:30px;
+    font-family: 'Righteous', sans-serif;
+}
+.button {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    display:inline-block;
+    text-align: center;
+    text-decoration: none;
+    margin: 4px 2px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius:50px;
+    transition-duration: 0.4s;
+  }
+  .button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+ 
+  form{
+    background-color:coral;
+    width:100%;
+  }
+  
+  .btn{
+    margin:0% 51%;
+   width:20%;
+  }
